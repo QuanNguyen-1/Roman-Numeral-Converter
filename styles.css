@@ -1,0 +1,35 @@
+h1{
+  margin:20px auto;
+  text-align:center;
+}
+
+fieldset {
+  margin: 5px auto;
+  text-align:center;
+  width: 80%;
+  max-width:500px;
+  padding:20px 0;
+  min-width:350px;
+}
+
+label {
+  margin-right:8px;
+  font-size:1.5rem;
+}
+
+#output {
+  text-align:center;
+  margin: 25px auto;
+  font-size: 1.5rem;
+  border: 1px solid black;
+  width: 40%;
+  padding: 20px;
+}
+
+#convert-btn{
+  font-size:1rem
+}
+
+#number{
+  height:25px;
+}
